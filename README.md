@@ -1,4 +1,4 @@
-"# Reinforcement Learning Flight Racing game with Machine learning agents"
+# Reinforcement Learning Flight Racing game with Machine learning agents
 
 ##### (This repository will be updated soon!!!)
 
